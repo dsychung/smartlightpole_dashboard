@@ -1,0 +1,104 @@
+{
+   "weather":[
+      {
+         "temp":0,
+         "next_day1":"",
+         "next_day2":"",
+         "next_day3":"",
+         "next_day4":"",
+         "next_day5":"",
+         "next_day1_temp":0,
+         "next_day2_temp":0,
+         "next_day3_temp":0,
+         "next_day4_temp":0,
+         "next_day5_temp":0,
+         "city_name":"台南市",
+         "main_heading":"",
+         "sub_heading":"",
+         "main_id":0
+      }
+   ],
+   "events":[
+      {
+         "id":1,
+         "event_item1":"item1_1",
+         "event_item2":"item1_2",
+         "event_item3":"item1_3",
+         "event_item4":"item1_4",
+         "event_item5":"item1_5",
+         "event_item6":"item1_6",
+         "active_status":true,
+         "img_url":"assets/images/wifi-icon.jpg"
+      },
+      {
+         "id":2,
+         "event_item1":"item2_1",
+         "event_item2":"item2_2",
+         "event_item3":"item2_3",
+         "event_item4":"item2_4",
+         "event_item5":"item2_5",
+         "event_item6":"item_6",
+         "active_status":false,
+         "img_url":"assets/images/wifi-icon.jpg"
+      }
+   ],
+   "air":[
+      {
+         "air_item1":"良好",
+         "air_item2":"台南, 台灣"
+      }
+   ],
+   "liveviews ":[
+      {
+         "id":1,
+         "active_status":true,
+         "mp4_src":"https://mdbootstrap.com/img/video/Tropical.mp4"
+      },
+      {
+         "id":2,
+         "active_status":false,
+         "mp4_src":"https://mdbootstrap.com/img/video/forest.mp4"
+      },
+      {
+         "id":3,
+         "active_status":false,
+         "mp4_src":"https://mdbootstrap.com/img/video/Agua-natural.mp4"
+      }
+   ],
+   "news":[
+      {
+         "id":1,
+         "bg_url":"assets/images/white-info-bg.jpg",
+         "badge_color":"bg-primary",
+         "badge_content":"新聞",
+         "news_content":"政令宣導1 It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+         "active_status":true
+      },
+      {
+         "id":2,
+         "bg_url":"assets/images/white-info-bg.jpg",
+         "badge_color":"bg-info",
+         "badge_content":"資訊",
+         "news_content":"政令宣導  It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+         "active_status":false
+      },
+      {
+         "id":3,
+         "bg_url":"assets/images/white-info-bg.jpg",
+         "badge_color":"bg-success",
+         "badge_content":"消息",
+         "news_content":"政令宣導  It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+         "active_status":false
+      }
+   ],
+   "runtext":[
+      {
+         "id":1,
+         "content":"1111 政令宣導 ELECTRIC LIGHTING ACT makes it mandatory to use the services o"
+      },
+      {
+         "id":2,
+         "content":"2222 政令宣導 ELECTRIC LIGHTING ACT makes it mandatory to use the services o"
+      }
+   ]
+}
