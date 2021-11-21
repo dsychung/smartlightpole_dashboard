@@ -12,7 +12,7 @@
          "next_day3_temp":0,
          "next_day4_temp":0,
          "next_day5_temp":0,
-         "city_name":"台南市",
+         "city_name":"台南市ajax",
          "main_heading":"",
          "sub_heading":"",
          "main_id":0
@@ -21,7 +21,7 @@
    "events":[
       {
          "id":1,
-         "event_item1":"item1_1",
+         "event_item1":"item1_1ajax",
          "event_item2":"item1_2",
          "event_item3":"item1_3",
          "event_item4":"item1_4",
@@ -44,7 +44,7 @@
    ],
    "air":[
       {
-         "air_item1":"良好",
+         "air_item1":"良好ajax",
          "air_item2":"台南, 台灣"
       }
    ],
@@ -70,7 +70,7 @@
          "id":1,
          "bg_url":"assets/images/white-info-bg.jpg",
          "badge_color":"bg-primary",
-         "badge_content":"新聞",
+         "badge_content":"新聞ajax",
          "news_content":"政令宣導1 It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
          "active_status":true
       },
